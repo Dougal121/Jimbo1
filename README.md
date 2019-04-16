@@ -11,6 +11,6 @@ It cantained Jims custom cut stuff but the files where named
 003.mp3
 etc
 
-They where all placed in the root of the card... we had to add a couple extra as out MP3 player seemed not to play the last track unless we did - never did work that out ?
+They where all placed in the root of the card... we had to add a couple extra as our MP3 player seemed not to play the last track unless we did - never did work that out ?
 
 As always happy coding
